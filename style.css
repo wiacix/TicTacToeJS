@@ -1,0 +1,25 @@
+body{
+    background-color: lightblue;
+    margin: auto;
+    text-align: center;
+}
+td{
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+td:hover{
+    background-color: aqua;
+}
+table{
+    border-spacing:3px;
+    margin: auto;
+    margin-top: 30px;
+}
+input{
+    margin-top: 10px;
+}
